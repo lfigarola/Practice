@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "TW cen MT";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Tw Cen MT.TTF") format('truetype');
+}
+@font-face {
+  font-family: "TW cen MT";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/Tw Cen MT Italic.TTF") format('truetype');
+}
+@font-face {
+  font-family: "TW cen MT";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/Tw Cen MT Bold.TTF") format('truetype');
+}
+@font-face {
+  font-family: "TW cen MT";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../fonts/Tw Cen MT Bold Italic.TTF") format('truetype');
+}

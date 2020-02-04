@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/calibri light.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 200;
+  src: url("../fonts/calibri light italic.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/calibri.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/calibri italic.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/calibri bold.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../fonts/calibri bold italic.ttf") format('truetype');
+}
